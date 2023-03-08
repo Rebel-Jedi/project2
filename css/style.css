@@ -14,7 +14,7 @@
   position: relative;
   left: 50%;
   float: left;
-}
+} 
 #main-navbar ul li {
   float: left;
   position: relative;
@@ -36,6 +36,11 @@
 .center-text {
   text-align: center;
   font-family: monospace;
+}
+
+.center-title {
+  text-align: center;
+  font-family: arial;
 }
 
 .align-left {
