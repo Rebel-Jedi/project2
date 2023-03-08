@@ -6,6 +6,7 @@
   float: left;
   width: 100%;
   position: relative;
+  w3-large;
 }
 #main-navbar ul {
   list-style-type: none;
