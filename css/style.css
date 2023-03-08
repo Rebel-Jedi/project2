@@ -33,6 +33,10 @@
   color: white;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .resume-page-background {
   background-color: #33cccc;
 }
