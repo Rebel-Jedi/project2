@@ -45,6 +45,10 @@
   float: right;
 }
 
+.reset {
+  clear: both;
+}
+
 .resume-page-background {
   background-color: #33cccc;
 }
