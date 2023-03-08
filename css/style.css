@@ -38,6 +38,13 @@
   font-family: monospace;
 }
 
+.align-left {
+  float: left;
+}
+.align-right {
+  float: right;
+}
+
 .resume-page-background {
   background-color: #33cccc;
 }
