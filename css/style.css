@@ -1,6 +1,6 @@
 #main-navbar {
   overflow: hidden;
-  background-color: #87CEFA;
+  background-color: #0000ff;
 }
 #navbar-container {
   float: left;
@@ -25,7 +25,7 @@
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
-  color: blue;
+  color: white;
   text-decoration: none;
 }
 #main-navbar ul li a:hover {
