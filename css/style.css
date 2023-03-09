@@ -66,3 +66,13 @@
   padding: 1% 1% 1% 1%;
   background-color: #F5FFFA;
 }
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
+.printer-page{
+
+  background-color: orange;
+}
