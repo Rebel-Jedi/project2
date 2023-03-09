@@ -2,11 +2,13 @@
   overflow: hidden;
   background-color: #0000ff;
 }
+
 #navbar-container {
   float: left;
   width: 100%;
   position: relative;
 }
+
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
@@ -15,6 +17,7 @@
   left: 50%;
   float: left;
 } 
+
 #main-navbar ul li {
   float: left;
   position: relative;
@@ -22,12 +25,14 @@
   display: block;
   font-size: 20px;
 }
+
 #main-navbar ul li a {
   display: block;
   padding: 10px 20px;
   color: white;
   text-decoration: none;
 }
+
 #main-navbar ul li a:hover {
   background-color: #1E90FF;
   color: white;
@@ -70,6 +75,10 @@
 .img {
   width: 20%;
   height: auto;
+}
+
+.img-half{
+
 }
 
 .printer-page{
