@@ -76,3 +76,21 @@
 
   background-color: orange;
 }
+#printer-one {
+  background-color:#4682B4;
+  float: left;
+  width: 45%;
+  border: 1px solid black;
+  text-align: center;
+  padding: 1%;
+  margin: 0 1.5% 2%;
+}
+#printer-two {
+  background-color:#4682B4;
+  float: left;
+  width: 45%;
+  border: 1px solid black;
+  text-align: center;
+  padding: 1%;
+  margin: 0 1% 2%;
+}
